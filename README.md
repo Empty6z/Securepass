@@ -32,7 +32,7 @@ Clona el repositorio e instala dependencias:
 bash
 Copiar
 Editar
-git clone https://github.com/TU-USUARIO/securepass.git
+git clone https://github.com/Empty6z/Securepass.git
 cd securepass
 npm install
 npm run dev
