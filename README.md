@@ -15,35 +15,29 @@ Evaluar la fortaleza de cada contraseña (Débil, Media, Alta).
 Mostrar una lista de brechas recientes simuladas obtenidas desde una API pública.
 
 Características
+
 ✔ SPA desarrollada con React + Vite
+
 ✔ Uso de componentes reutilizables
+
 ✔ Persistencia con localStorage
+
 ✔ Carga de datos desde JSONPlaceholder API
+
 ✔ Código limpio y comentado
 
-🛠 Requisitos
+Requisitos
 Node.js v16 o superior
-
 Navegador moderno
 
 Instalación y ejecución
-
 Clona el repositorio e instala dependencias:
 
-bash
-
-Copiar
-
-Editar
-
+```bash
 git clone https://github.com/Empty6z/Securepass.git
-
 cd securepass
-
 npm install
-
 npm run dev
-
 Luego abre en tu navegador:
 http://localhost:5173
 
