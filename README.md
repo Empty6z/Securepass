@@ -27,15 +27,23 @@ Node.js v16 o superior
 Navegador moderno
 
 Instalación y ejecución
+
 Clona el repositorio e instala dependencias:
 
 bash
+
 Copiar
+
 Editar
+
 git clone https://github.com/Empty6z/Securepass.git
+
 cd securepass
+
 npm install
+
 npm run dev
+
 Luego abre en tu navegador:
 http://localhost:5173
 
