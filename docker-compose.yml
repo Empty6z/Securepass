@@ -1,0 +1,13 @@
+﻿version: "3.8"
+
+services:
+  securepass:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: securepass
+    ports:
+      - "80:80"
+    restart: unless-stopped
+    security_opt:
+      - no-new-privileges:true
